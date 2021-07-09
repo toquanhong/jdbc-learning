@@ -12,3 +12,8 @@ And remember when you add components to a visible GUI the components will not ap
 I think it is a better design to add all the components and then make it visibile once you have finished adding everything to the frame. This way you only layout the components once, not after every component is added. Maybe with other languages that use absolute sizes and positioning this is not a big deal because they don't have the concept of layout managers.
 
 我认为这是一个更好的设计，添加所有的组件，然后使它可见一旦你已经完成添加到框架的一切。这样，您只需要布局组件一次，而不是在添加每个组件之后。也许对于其他使用绝对大小和定位的语言来说，这没什么大不了的，因为他们没有布局管理器的概念。
+
+
+#  java  柱状图与折线图
+
+_参考链接  https://blog.csdn.net/starter_____/article/details/78827506_
